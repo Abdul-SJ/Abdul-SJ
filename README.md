@@ -1,3 +1,9 @@
+{
+  "image": "https://user-images.githubusercontent.com/48680107/90428369-801eff80-e0e1-11ea-98b1-742aa741b7cc.png",
+  "issueId": 59,
+  "name": "Abhay Anand",
+  "username": "Abhay2611"
+}
 <h1 align="center">Hi 👋, I'm Abdul Subhan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="111747-web-development.gif">
