@@ -3,9 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-sj&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-sj" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-sj" alt="abdul-sj" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/subhansj3" target="blank"><img src="https://img.shields.io/twitter/follow/subhansj3?logo=twitter&style=for-the-badge" alt="subhansj3" /></a> </p>
+
+- 🌱 I’m currently learning **React JS, Next JS**
+
+- 💬 Ask me about **React JS, PHP, HTMLCSS, JavaScript**
+
+- 📫 How to reach me **subhanjavedsj3@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@subhan4sj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@subhan4sj" height="30" width="40" /></a>
 <a href="https://dev.to/@abdul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@abdul1" height="30" width="40" /></a>
+<a href="https://twitter.com/subhansj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhansj3" height="30" width="40" /></a>
+<a href="https://instagram.com/sj_maher3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sj_maher3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
