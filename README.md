@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React JS, PHP, HTMLCSS, JavaScript**
 
-- 👯 I’m looking for a Website Development job.
+- 👯 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 - 📫 How to reach me **subhanjavedsj3@gmail.com**
 
